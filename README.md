@@ -22,6 +22,14 @@ A simple shell used to execute built-in Linux commands.
 * When the command is done, the program returns to the parent process and prints the prompt
 * The program is ready to receive a new command
 * To exit:  enter "exit"
+* 
+### Builtins implemented
+* echo
+* cd
+* pwd
+* exit
+* builtin
+
 
 ### Compilation
 
